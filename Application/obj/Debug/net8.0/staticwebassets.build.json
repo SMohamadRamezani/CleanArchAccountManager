@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "CS5Jry8XYxrbDvryr59hl2A8wVHsazAQtjkQwK59AeQ=",
+  "Source": "ApiEndPoint",
+  "BasePath": "_content/ApiEndPoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiEndPoint\\wwwroot",
+      "Source": "ApiEndPoint",
+      "ContentRoot": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\",
+      "BasePath": "_content/ApiEndPoint",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\swagger-ui\\swagger-custom.js",
+      "SourceId": "ApiEndPoint",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\",
+      "BasePath": "_content/ApiEndPoint",
+      "RelativePath": "swagger-ui/swagger-custom#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye3395jvyq",
+      "Integrity": "9v4f/GzptwTnxVSCjNOwGMBlpOVfY34cTfke143ouXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger-ui\\swagger-custom.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "swagger-ui/swagger-custom.js",
+      "AssetFile": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\swagger-ui\\swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9v4f/GzptwTnxVSCjNOwGMBlpOVfY34cTfke143ouXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 14:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9v4f/GzptwTnxVSCjNOwGMBlpOVfY34cTfke143ouXw="
+        }
+      ]
+    },
+    {
+      "Route": "swagger-ui/swagger-custom.ye3395jvyq.js",
+      "AssetFile": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\swagger-ui\\swagger-custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9v4f/GzptwTnxVSCjNOwGMBlpOVfY34cTfke143ouXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 14:30:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye3395jvyq"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger-ui/swagger-custom.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9v4f/GzptwTnxVSCjNOwGMBlpOVfY34cTfke143ouXw="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\bin\Debug\net8.0\SinaIns.App.deps.json
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\bin\Debug\net8.0\SinaIns.App.dll
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\bin\Debug\net8.0\SinaIns.App.pdb
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\bin\Debug\net8.0\SinaIns.Domain.dll
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\bin\Debug\net8.0\SinaIns.Domain.pdb
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.csproj.AssemblyReference.cache
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.AssemblyInfoInputs.cache
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.AssemblyInfo.cs
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.csproj.CoreCompileInputs.cache
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns..60C7D2A5.Up2Date
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.dll
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\refint\SinaIns.App.dll
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\SinaIns.App.pdb
+D:\Source\SinaInsMobile\SinaInsApi\SinaInsApi\SinaInsApi\SinaIns.App\obj\Debug\net8.0\ref\SinaIns.App.dll

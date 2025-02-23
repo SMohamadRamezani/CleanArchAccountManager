@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Source\\SinaInsMobile\\Application\\wwwroot\\swagger-ui\\swagger-custom.js",
+      "PackagePath": "staticwebassets\\swagger-ui\\swagger-custom.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiEndPoint.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ApiEndPoint.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ApiEndPoint.props",
+      "PackagePath": "build\\ApiEndPoint.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ApiEndPoint.props",
+      "PackagePath": "buildMultiTargeting\\ApiEndPoint.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ApiEndPoint.props",
+      "PackagePath": "buildTransitive\\ApiEndPoint.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
